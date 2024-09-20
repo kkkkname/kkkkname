@@ -4,6 +4,8 @@
 💡 Моя мотивация проста: я люблю создавать удобные, понятные и функциональные интерфейсы, которые делают жизнь пользователей проще. Работая с веб-технологиями, я стремлюсь к тому, чтобы каждая созданная мною страница была не только красивой, но и быстрой, адаптивной и интуитивно понятной на любом устройстве.
 ⚡ Я стремлюсь к постоянному развитию, учусь новым технологиям и всегда открыт для новых возможностей.
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
